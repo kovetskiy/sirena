@@ -1,0 +1,24 @@
+{
+  "name": "sirena",
+  "version": "1.0.0",
+  "description": "Electron frontend for carcosa",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "electron .",
+    "": ""
+  },
+  "author": "Egor Kovetskiy",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.0.0",
+    "electron-packager": "^13.0.1",
+    "ipc": "0.0.1",
+    "jquery": "^3.3.1"
+  },
+  "dependencies": {
+    "bulma": "^0.7.2",
+    "electron-watch": "^1.0.9",
+    "quasar": "^1.0.0-alpha.6"
+  }
+}
